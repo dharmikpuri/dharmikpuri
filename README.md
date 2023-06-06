@@ -47,3 +47,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dharmikpuri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
+  <div align="center">
+   <img  id="github-top-langs" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikpuri'/>
+  </div>
