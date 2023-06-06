@@ -51,3 +51,7 @@
   <div align="center">
    <img  id="github-top-langs" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikpuri'/>
   </div>
+  
+  <div align="center" style={{margin:"20px"}}>
+ <img id="github-streak-stats" src='https://github-readme-streak-stats.herokuapp.com/?user=dharmikpuri'/>
+  </div>
