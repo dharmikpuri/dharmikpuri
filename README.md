@@ -4,7 +4,7 @@
 
 <!-- profile -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/112755839?v=4" width="300"/>
+
   <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dharmik Puri Goswami</h3>
   <h4 align="center" >A passionate full stack developer</h4>
 </div>
